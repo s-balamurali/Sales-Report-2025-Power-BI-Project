@@ -21,7 +21,7 @@ This project is a **Sales Report Dashboard** built using **Power BI** with sampl
 - **Microsoft Excel** – For data preparation and transformation.
 
 ## 📸 Dashboard Preview
-https://github.com/user-attachments/assets/f67bab0f-87c6-4604-8118-4361403cd13c
+![Dashboard](https://github.com/user-attachments/assets/f67bab0f-87c6-4604-8118-4361403cd13c)
 
 ## 🔥 How to Use
 1. Download and open the `Sales_Report.pbix` file in **Power BI Desktop**.
